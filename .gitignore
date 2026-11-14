@@ -1,0 +1,12 @@
+﻿.DS_Store
+Thumbs.db
+*.log
+.vscode/
+
+# Fuentes en claro, reglas internas y pruebas (NO publicar)
+src/
+pruebas/
+index-src.html
+montar.ps1
+serve.ps1
+gen-icons.ps1
